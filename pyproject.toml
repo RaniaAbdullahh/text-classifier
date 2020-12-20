@@ -10,6 +10,7 @@ jupyter = "^1.0.0"
 lab = "^6.2"
 sklearn = "^0.0"
 pandas = "^1.1.5"
+jupyterlab = "^2.2.9"
 
 [tool.poetry.dev-dependencies]
 
